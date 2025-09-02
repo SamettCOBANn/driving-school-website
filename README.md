@@ -81,12 +81,11 @@ npx http-server
 - **Mobile Navigation** - Responsive menu system
 - **Image Galleries** - Visual content showcase
 
+<<<<<<< HEAD
 ## 📱 Browser Support
+=======
+>>>>>>> 97f426aec81dd650cdd2c928bad3e07be302771c
 
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
 
 ## 🤝 Contributing
 
@@ -96,12 +95,16 @@ npx http-server
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
+<<<<<<< HEAD
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+>>>>>>> 97f426aec81dd650cdd2c928bad3e07be302771c
 
 ## 👨‍💻 Developer
 
+<<<<<<< HEAD
 **Samet ÇOBAN**
 - 📧 Email: samettcoban@example.com
 - 💼 LinkedIn: [linkedin.com/in/samettcoban](https://linkedin.com/in/samettcoban)
@@ -114,6 +117,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **UI/UX Design** - Modern interface design
 - **Version Control** - Git and GitHub
 - **Web Performance** - Optimized loading and animations
+=======
+Samet Çoban  
+- 📧 Email: cobansamettr@gmail.com
+>>>>>>> 97f426aec81dd650cdd2c928bad3e07be302771c
 
 ---
 
