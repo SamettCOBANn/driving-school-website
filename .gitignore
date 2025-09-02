@@ -1,0 +1,36 @@
+# IDE ve Editor dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
+
+# Node.js (gelecekte kullanılabilir)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup dosyaları
+*.backup
+*.bak
+
+# Cache dosyaları
+.cache/
+*.cache
+
+# Build klasörleri (gelecekte kullanılabilir)
+dist/
+build/
