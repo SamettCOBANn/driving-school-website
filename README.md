@@ -13,7 +13,7 @@ Modern ve responsive tasarımı ile sürücü kursu web sitesi. Bu proje HTML5, 
 
 ## 📱 Demo
 
-Canlı demo için: [GitHub Pages'de görüntüle](https://yourusername.github.io/sürücü-kursu-sitesi)
+Canlı demo için: [GitHub Pages'de görüntüle](https://SamettCOBANn.github.io/sürücü-kursu-sitesi)
 
 ## 🛠️ Teknolojiler
 
@@ -80,12 +80,7 @@ npx http-server
 - **Card Layout** - Düzenli içerik sunumu
 - **Mobile Navigation** - Responsive menü sistemi
 
-## 📱 Browser Desteği
 
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
 
 ## 🤝 Katkıda Bulunma
 
@@ -95,16 +90,11 @@ npx http-server
 4. Branch'e push edin (`git push origin feature/yeni-özellik`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasını inceleyin.
 
 ## 👨‍💻 Geliştirici
 
-**Adınız Soyadınız**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+Samet Çoban  
+- 📧 Email: cobansamettr@gmail.com
 
 ---
 
