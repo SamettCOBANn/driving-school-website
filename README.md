@@ -96,7 +96,7 @@ npx http-server
 ## 👨‍💻 Developer
 
 **Samet ÇOBAN**
-- 📧 Email: samettcoban@example.com
+- 📧 Email: cobansamettr@gmail.com
 ## 🚀 Skills Demonstrated
 
 - **Frontend Development** - HTML5, CSS3, JavaScript
